@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1558-course-schedule-iv](https://github.com/ShrutiPundir17/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShrutiPundir17/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShrutiPundir17/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShrutiPundir17/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
