@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ShrutiPundir17/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ShrutiPundir17/LeetCode/tree/master/0043-multiply-strings) |
 | [0812-rotate-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/0812-rotate-string) |
+| [1894-merge-strings-alternately](https://github.com/ShrutiPundir17/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShrutiPundir17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrutiPundir17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ShrutiPundir17/LeetCode/tree/master/3447-clear-digits) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ShrutiPundir17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/ShrutiPundir17/LeetCode/tree/master/0148-sort-list) |
+| [1894-merge-strings-alternately](https://github.com/ShrutiPundir17/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ShrutiPundir17/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Counting
 |  |
