@@ -11,31 +11,23 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-    if (!head || !head->next) {
-            return head;
+     if (!head || !head->next) return head; 
+        int n = 1;
+        ListNode* tail = head;
+        while (tail->next) {
+            tail = tail->next;
+            n++;
         }
-        std::deque<ListNode*> dq;
-        ListNode* cur = head;
-        while (cur) {
-            dq.push_back(cur);
-            cur = cur->next;
+        k %= n;
+        if (k == 0) return head; 
+        tail->next = head;
+        ListNode* newTail = head;
+        for (int i = 0; i < n - k - 1; i++) {
+            newTail = newTail->next;
         }
-
-        int n = dq.size();
-        k %= n; 
-        if (k == 0) {
-            return head;
-        }
-        for (int i = 0; i < k; i++) {
-            dq.push_front(dq.back());
-            dq.pop_back();
-        }
-        head = dq.front();
-        for (int i = 0; i < n - 1; i++) {
-            dq[i]->next = dq[i + 1];
-        }
-        dq.back()->next = nullptr; 
-
-        return head;    
+        head = newTail->next;
+        newTail->next = nullptr; 
+        
+        return head;   
     }
 };
