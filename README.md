@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShrutiPundir17/LeetCode/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/ShrutiPundir17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/ShrutiPundir17/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ShrutiPundir17/LeetCode/tree/master/0283-move-zeroes) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShrutiPundir17/LeetCode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/ShrutiPundir17/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ShrutiPundir17/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShrutiPundir17/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ShrutiPundir17/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ShrutiPundir17/LeetCode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
