@@ -1,21 +1,23 @@
 class Solution {
 public:
     bool closeStrings(string word1, string word2) {
-    int cnt1[26]{};
-        int cnt2[26]{};
-        for (char& c : word1) {
-            ++cnt1[c - 'a'];
+    if (word1.size() != word2.size()) return false;
+
+        array<int, 26> freq1 = {}, freq2 = {};
+        unordered_set<char> set1, set2;
+
+        for (char c : word1) {
+            ++freq1[c - 'a'];
+            set1.insert(c);
         }
-        for (char& c : word2) {
-            ++cnt2[c - 'a'];
+        for (char c : word2) {
+            ++freq2[c - 'a'];
+            set2.insert(c);
         }
-        for (int i = 0; i < 26; ++i) {
-            if ((cnt1[i] == 0) != (cnt2[i] == 0)) {
-                return false;
-            }
-        }
-        sort(cnt1, cnt1 + 26);
-        sort(cnt2, cnt2 + 26);
-        return equal(cnt1, cnt1 + 26, cnt2);    
+        if (set1 != set2) return false;
+        sort(freq1.begin(), freq1.end());
+        sort(freq2.begin(), freq2.end());
+
+        return freq1 == freq2; 
     }
 };
