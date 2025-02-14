@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ShrutiPundir17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [1364-tuple-with-same-product](https://github.com/ShrutiPundir17/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShrutiPundir17/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/ShrutiPundir17/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShrutiPundir17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/ShrutiPundir17/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ShrutiPundir17/LeetCode/tree/master/0148-sort-list) |
+| [1777-determine-if-two-strings-are-close](https://github.com/ShrutiPundir17/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ShrutiPundir17/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShrutiPundir17/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ShrutiPundir17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShrutiPundir17/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/ShrutiPundir17/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/ShrutiPundir17/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShrutiPundir17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrutiPundir17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/ShrutiPundir17/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1777-determine-if-two-strings-are-close](https://github.com/ShrutiPundir17/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShrutiPundir17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
