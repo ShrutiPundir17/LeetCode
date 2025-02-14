@@ -1,23 +1,20 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-    int n = nums.size();
-        vector<int> left(n + 1);
-        vector<int> right(n + 1);
-        for (int i = 1; i <= n; ++i) {
-            if (nums[i - 1]) {
-                left[i] = left[i - 1] + 1;
+     int l = 0, r = 0, zero_count = 0, max_len = 0;
+
+        while (r < nums.size()) {
+            if (nums[r] == 0) zero_count++;  
+            
+            while (zero_count > 1) { 
+                if (nums[l] == 0) zero_count--;
+                l++;
             }
+
+            max_len = max(max_len, r - l);
+            r++;
         }
-        for (int i = n - 1; ~i; --i) {
-            if (nums[i]) {
-                right[i] = right[i + 1] + 1;
-            }
-        }
-        int ans = 0;
-        for (int i = 0; i < n; ++i) {
-            ans = max(ans, left[i] + right[i + 1]);
-        }
-        return ans;    
+
+        return max_len;    
     }
 };
