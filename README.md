@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ShrutiPundir17/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/ShrutiPundir17/LeetCode/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/ShrutiPundir17/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ShrutiPundir17/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/ShrutiPundir17/LeetCode/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/ShrutiPundir17/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShrutiPundir17/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -283,4 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/ShrutiPundir17/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ShrutiPundir17/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ShrutiPundir17/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
