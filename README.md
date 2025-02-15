@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/ShrutiPundir17/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2434-design-a-number-container-system](https://github.com/ShrutiPundir17/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -270,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ShrutiPundir17/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ShrutiPundir17/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ShrutiPundir17/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
