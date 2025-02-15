@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/ShrutiPundir17/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ShrutiPundir17/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ShrutiPundir17/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2428-equal-row-and-column-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ShrutiPundir17/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ShrutiPundir17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/ShrutiPundir17/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShrutiPundir17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2428-equal-row-and-column-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/ShrutiPundir17/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ShrutiPundir17/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [2428-equal-row-and-column-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ShrutiPundir17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ShrutiPundir17/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ShrutiPundir17/LeetCode/tree/master/0043-multiply-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrutiPundir17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2428-equal-row-and-column-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ShrutiPundir17/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ShrutiPundir17/LeetCode/tree/master/3447-clear-digits) |
