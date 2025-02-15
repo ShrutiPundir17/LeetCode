@@ -1,7 +1,7 @@
 class Solution {
 public:
     int punishmentNumber(int n) {
-     int ans = 0;
+    int ans = 0;
         for (int i = 1; i <= n; ++i) {
             int x = i * i;
             string s = to_string(x);
