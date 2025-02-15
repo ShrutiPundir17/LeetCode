@@ -1,21 +1,27 @@
 class Solution {
 public:
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
-     int n = rooms.size();
+    int n = rooms.size();
+        vector<bool> vis(n, false);
+        stack<int> st;
         int cnt = 0;
-        bool vis[n];
-        memset(vis, false, sizeof(vis));
-        function<void(int)> dfs = [&](int i) {
-            if (vis[i]) {
-                return;
+
+        st.push(0);
+        vis[0] = true;
+        ++cnt;
+
+        while (!st.empty()) {
+            int i = st.top();
+            st.pop();
+
+            for (int key : rooms[i]) {
+                if (!vis[key]) {
+                    vis[key] = true;
+                    st.push(key);
+                    ++cnt;
+                }
             }
-            vis[i] = true;
-            ++cnt;
-            for (int j : rooms[i]) {
-                dfs(j);
-            }
-        };
-        dfs(0);
-        return cnt == n;    
+        }
+        return cnt == n; 
     }
 };
