@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ShrutiPundir17/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShrutiPundir17/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/ShrutiPundir17/LeetCode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/ShrutiPundir17/LeetCode/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/ShrutiPundir17/LeetCode/tree/master/0396-rotate-function) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ShrutiPundir17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/ShrutiPundir17/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ShrutiPundir17/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ShrutiPundir17/LeetCode/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/ShrutiPundir17/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ShrutiPundir17/LeetCode/tree/master/0396-rotate-function) |
 | [0747-min-cost-climbing-stairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/ShrutiPundir17/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ShrutiPundir17/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
