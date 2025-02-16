@@ -1,28 +1,28 @@
+#include <queue>
+#include <unordered_set>
+
 class SmallestInfiniteSet {
 public:
-    SmallestInfiniteSet() {
-        for (int i = 1; i <= 1000; ++i) {
-            s.insert(i);
-        }
-    }
+    SmallestInfiniteSet() : currentMin(1) {}
 
     int popSmallest() {
-        int x = *s.begin();
-        s.erase(s.begin());
-        return x;
+        if (!minHeap.empty()) {
+            int smallest = minHeap.top();
+            minHeap.pop();
+            addedNumbers.erase(smallest);
+            return smallest;
+        }
+        return currentMin++;
     }
 
     void addBack(int num) {
-        s.insert(num);
+        if (num < currentMin && addedNumbers.insert(num).second) {
+            minHeap.push(num);
+        }
     }
 
 private:
-    set<int> s;
+    int currentMin;
+    std::priority_queue<int, std::vector<int>, std::greater<int>> minHeap;
+    std::unordered_set<int> addedNumbers;
 };
-
-/**
- * Your SmallestInfiniteSet object will be instantiated and called as such:
- * SmallestInfiniteSet* obj = new SmallestInfiniteSet();
- * int param_1 = obj->popSmallest();
- * obj->addBack(num);
- */
