@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/ShrutiPundir17/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ShrutiPundir17/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ShrutiPundir17/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/ShrutiPundir17/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ShrutiPundir17/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ShrutiPundir17/LeetCode/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/ShrutiPundir17/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ShrutiPundir17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ShrutiPundir17/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/ShrutiPundir17/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1558-course-schedule-iv](https://github.com/ShrutiPundir17/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShrutiPundir17/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/ShrutiPundir17/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ShrutiPundir17/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ShrutiPundir17/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Heap (Priority Queue)
