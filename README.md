@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ShrutiPundir17/LeetCode/tree/master/0043-multiply-strings) |
 | [0396-rotate-function](https://github.com/ShrutiPundir17/LeetCode/tree/master/0396-rotate-function) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ShrutiPundir17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/ShrutiPundir17/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ShrutiPundir17/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ShrutiPundir17/LeetCode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/ShrutiPundir17/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ShrutiPundir17/LeetCode/tree/master/0396-rotate-function) |
+| [1236-n-th-tribonacci-number](https://github.com/ShrutiPundir17/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShrutiPundir17/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## String Matching
 |  |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShrutiPundir17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/ShrutiPundir17/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
