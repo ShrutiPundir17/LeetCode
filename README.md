@@ -389,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/ShrutiPundir17/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ShrutiPundir17/LeetCode/tree/master/0937-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ShrutiPundir17/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
