@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/ShrutiPundir17/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShrutiPundir17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrutiPundir17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/ShrutiPundir17/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ShrutiPundir17/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ShrutiPundir17/LeetCode/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrutiPundir17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/ShrutiPundir17/LeetCode/tree/master/3447-clear-digits) |
 ## Linked List
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ShrutiPundir17/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/ShrutiPundir17/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ShrutiPundir17/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/ShrutiPundir17/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ShrutiPundir17/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ShrutiPundir17/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Queue
 |  |
