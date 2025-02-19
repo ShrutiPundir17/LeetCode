@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/ShrutiPundir17/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/ShrutiPundir17/LeetCode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/ShrutiPundir17/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ShrutiPundir17/LeetCode/tree/master/0595-big-countries) |
