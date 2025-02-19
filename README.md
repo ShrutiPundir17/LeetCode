@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/ShrutiPundir17/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ShrutiPundir17/LeetCode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/ShrutiPundir17/LeetCode/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/ShrutiPundir17/LeetCode/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/ShrutiPundir17/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/ShrutiPundir17/LeetCode/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/ShrutiPundir17/LeetCode/tree/master/1182-game-play-analysis-iv) |
