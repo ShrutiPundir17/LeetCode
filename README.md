@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ShrutiPundir17/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ShrutiPundir17/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/ShrutiPundir17/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/ShrutiPundir17/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/ShrutiPundir17/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ShrutiPundir17/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/ShrutiPundir17/LeetCode/tree/master/1942-primary-department-for-each-employee) |
