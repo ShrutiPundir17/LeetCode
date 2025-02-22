@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ShrutiPundir17/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ShrutiPundir17/LeetCode/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/ShrutiPundir17/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ShrutiPundir17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1558-course-schedule-iv](https://github.com/ShrutiPundir17/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShrutiPundir17/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShrutiPundir17/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ShrutiPundir17/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/ShrutiPundir17/LeetCode/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/0812-rotate-string) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ShrutiPundir17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ShrutiPundir17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/ShrutiPundir17/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShrutiPundir17/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ShrutiPundir17/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ShrutiPundir17/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ShrutiPundir17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ShrutiPundir17/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ShrutiPundir17/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ShrutiPundir17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
