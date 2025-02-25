@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/ShrutiPundir17/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ShrutiPundir17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ShrutiPundir17/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/ShrutiPundir17/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShrutiPundir17/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ShrutiPundir17/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/ShrutiPundir17/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ShrutiPundir17/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/ShrutiPundir17/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Prefix Sum
 |  |
 | ------- |
