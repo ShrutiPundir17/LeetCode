@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ShrutiPundir17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ShrutiPundir17/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ShrutiPundir17/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ShrutiPundir17/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShrutiPundir17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ShrutiPundir17/LeetCode/tree/master/0217-contains-duplicate) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ShrutiPundir17/LeetCode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/ShrutiPundir17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ShrutiPundir17/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ShrutiPundir17/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShrutiPundir17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ShrutiPundir17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ShrutiPundir17/LeetCode/tree/master/0389-find-the-difference) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShrutiPundir17/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShrutiPundir17/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ShrutiPundir17/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ShrutiPundir17/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShrutiPundir17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ShrutiPundir17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ShrutiPundir17/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShrutiPundir17/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShrutiPundir17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/ShrutiPundir17/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ShrutiPundir17/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ShrutiPundir17/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ShrutiPundir17/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ShrutiPundir17/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ShrutiPundir17/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShrutiPundir17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShrutiPundir17/LeetCode/tree/master/0347-top-k-frequent-elements) |
