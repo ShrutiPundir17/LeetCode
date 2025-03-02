@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ShrutiPundir17/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ShrutiPundir17/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ShrutiPundir17/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShrutiPundir17/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ShrutiPundir17/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ShrutiPundir17/LeetCode/tree/master/0075-sort-colors) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ShrutiPundir17/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ShrutiPundir17/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ShrutiPundir17/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ShrutiPundir17/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/0097-interleaving-string) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShrutiPundir17/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ShrutiPundir17/LeetCode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/ShrutiPundir17/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ShrutiPundir17/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/ShrutiPundir17/LeetCode/tree/master/0605-can-place-flowers) |
