@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShrutiPundir17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ShrutiPundir17/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/ShrutiPundir17/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ShrutiPundir17/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ShrutiPundir17/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ShrutiPundir17/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShrutiPundir17/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShrutiPundir17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ShrutiPundir17/LeetCode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/ShrutiPundir17/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/ShrutiPundir17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ShrutiPundir17/LeetCode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/ShrutiPundir17/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -569,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/ShrutiPundir17/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ShrutiPundir17/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
