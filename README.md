@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrutiPundir17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShrutiPundir17/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/ShrutiPundir17/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ShrutiPundir17/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShrutiPundir17/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShrutiPundir17/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShrutiPundir17/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Backtracking
 |  |
 | ------- |
