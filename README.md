@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShrutiPundir17/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShrutiPundir17/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ShrutiPundir17/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/ShrutiPundir17/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ShrutiPundir17/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ShrutiPundir17/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ShrutiPundir17/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ShrutiPundir17/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ShrutiPundir17/LeetCode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/ShrutiPundir17/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/ShrutiPundir17/LeetCode/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/ShrutiPundir17/LeetCode/tree/master/0125-valid-palindrome) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ShrutiPundir17/LeetCode/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/ShrutiPundir17/LeetCode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/ShrutiPundir17/LeetCode/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrutiPundir17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ShrutiPundir17/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
