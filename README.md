@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShrutiPundir17/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ShrutiPundir17/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ShrutiPundir17/LeetCode/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/ShrutiPundir17/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ShrutiPundir17/LeetCode/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/ShrutiPundir17/LeetCode/tree/master/0125-valid-palindrome) |
