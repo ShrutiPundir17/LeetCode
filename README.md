@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ShrutiPundir17/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ShrutiPundir17/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShrutiPundir17/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/ShrutiPundir17/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ShrutiPundir17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ShrutiPundir17/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/ShrutiPundir17/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ShrutiPundir17/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ShrutiPundir17/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShrutiPundir17/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/ShrutiPundir17/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Sliding Window
 |  |
 | ------- |
