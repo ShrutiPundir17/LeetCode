@@ -2,15 +2,19 @@ class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        function<void(TreeNode*)> dfs = [&](TreeNode* root) {
-            if (!root) {
-                return;
+        stack<TreeNode*> st;
+        TreeNode* curr = root;
+        
+        while (curr || !st.empty()) {
+            while (curr) {
+                st.push(curr);
+                curr = curr->left; 
             }
-            dfs(root->left);
-            ans.push_back(root->val);
-            dfs(root->right);
-        };
-        dfs(root);
+            curr = st.top(); 
+            st.pop();
+            ans.push_back(curr->val); 
+            curr = curr->right; 
+        }
         return ans;
     }
 };
