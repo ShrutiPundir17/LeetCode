@@ -1,13 +1,25 @@
 class Solution {
 public:
     TreeNode* sortedArrayToBST(vector<int>& nums) {
-        auto dfs = [&](this auto&& dfs, int l, int r) -> TreeNode* {
-            if (l > r) {
-                return nullptr;
-            }
-            int mid = (l + r) >> 1;
-            return new TreeNode(nums[mid], dfs(l, mid - 1), dfs(mid + 1, r));
-        };
-        return dfs(0, nums.size() - 1);
+        if (nums.empty()) return nullptr;
+
+        stack<tuple<TreeNode**, int, int>> st;
+        TreeNode* root = nullptr;
+        st.emplace(&root, 0, nums.size() - 1);
+
+        while (!st.empty()) {
+            auto [node, left, right] = st.top();
+            st.pop();
+
+            if (left > right) continue;
+
+            int mid = left + (right - left) / 2;
+            *node = new TreeNode(nums[mid]);
+
+            st.emplace(&((*node)->right), mid + 1, right);
+            st.emplace(&((*node)->left), left, mid - 1);
+        }
+
+        return root;
     }
 };
