@@ -2,20 +2,26 @@
 class Solution {
 public:
     bool isValidBST(TreeNode* root) {
+        stack<TreeNode*> st;
         TreeNode* prev = nullptr;
-        function<bool(TreeNode*)> dfs = [&](TreeNode* root) {
-            if (!root) {
-                return true;
+        
+        while (root || !st.empty()) {
+            while (root) {
+                st.push(root);
+                root = root->left;
             }
-            if (!dfs(root->left)) {
-                return false;
-            }
+            
+            root = st.top();
+            st.pop();
+
             if (prev && prev->val >= root->val) {
                 return false;
             }
+            
             prev = root;
-            return dfs(root->right);
-        };
-        return dfs(root);
+            root = root->right;
+        }
+        
+        return true;
     }
 };
