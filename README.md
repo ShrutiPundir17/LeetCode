@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/ShrutiPundir17/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1558-course-schedule-iv](https://github.com/ShrutiPundir17/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShrutiPundir17/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShrutiPundir17/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShrutiPundir17/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ShrutiPundir17/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ShrutiPundir17/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/ShrutiPundir17/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShrutiPundir17/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShrutiPundir17/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## String
 |  |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/ShrutiPundir17/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShrutiPundir17/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ShrutiPundir17/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShrutiPundir17/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## String Matching
 |  |
 | ------- |
@@ -620,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShrutiPundir17/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShrutiPundir17/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
