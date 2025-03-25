@@ -1,25 +1,26 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
-        if (!root) return true;
-
-        queue<TreeNode*> q;
-        q.push(root->left);
-        q.push(root->right);
-
-        while (!q.empty()) {
-            TreeNode* p = q.front(); q.pop();
-            TreeNode* qNode = q.front(); q.pop();
-
-            if (!p && !qNode) continue;
-            if (!p || !qNode || p->val != qNode->val) return false;
-
-            q.push(p->left);
-            q.push(qNode->right);
-            q.push(p->right);
-            q.push(qNode->left);
-        }
-
-        return true;
+        auto dfs = [&](this auto&& dfs, TreeNode* root1, TreeNode* root2) -> bool {
+            if (root1 == root2) {
+                return true;
+            }
+            if (!root1 || !root2 || root1->val != root2->val) {
+                return false;
+            }
+            return dfs(root1->left, root2->right) && dfs(root1->right, root2->left);
+        };
+        return dfs(root->left, root->right);
     }
 };
