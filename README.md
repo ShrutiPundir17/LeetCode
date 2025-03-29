@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/ShrutiPundir17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ShrutiPundir17/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/ShrutiPundir17/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ShrutiPundir17/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShrutiPundir17/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShrutiPundir17/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShrutiPundir17/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ShrutiPundir17/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ShrutiPundir17/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ShrutiPundir17/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShrutiPundir17/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ShrutiPundir17/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Depth-First Search
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrutiPundir17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ShrutiPundir17/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/ShrutiPundir17/LeetCode/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/ShrutiPundir17/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ShrutiPundir17/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ShrutiPundir17/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ShrutiPundir17/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ShrutiPundir17/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/ShrutiPundir17/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ShrutiPundir17/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -594,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/ShrutiPundir17/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ShrutiPundir17/LeetCode/tree/master/0937-online-stock-span) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ShrutiPundir17/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Database
 |  |
 | ------- |
@@ -639,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/ShrutiPundir17/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ShrutiPundir17/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting Sort
 |  |
 | ------- |
