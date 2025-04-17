@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ShrutiPundir17/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/ShrutiPundir17/LeetCode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/ShrutiPundir17/LeetCode/tree/master/0461-hamming-distance) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ShrutiPundir17/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ShrutiPundir17/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShrutiPundir17/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
