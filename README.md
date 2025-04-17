@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ShrutiPundir17/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2262-solving-questions-with-brainpower](https://github.com/ShrutiPundir17/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ShrutiPundir17/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ShrutiPundir17/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ShrutiPundir17/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShrutiPundir17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
