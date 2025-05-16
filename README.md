@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ShrutiPundir17/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ShrutiPundir17/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ShrutiPundir17/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ShrutiPundir17/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ShrutiPundir17/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShrutiPundir17/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ShrutiPundir17/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ShrutiPundir17/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ShrutiPundir17/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ShrutiPundir17/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ShrutiPundir17/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShrutiPundir17/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShrutiPundir17/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ShrutiPundir17/LeetCode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/ShrutiPundir17/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ShrutiPundir17/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ShrutiPundir17/LeetCode/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/ShrutiPundir17/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ShrutiPundir17/LeetCode/tree/master/0207-course-schedule) |
 | [1558-course-schedule-iv](https://github.com/ShrutiPundir17/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShrutiPundir17/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShrutiPundir17/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
