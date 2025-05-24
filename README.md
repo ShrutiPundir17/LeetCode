@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShrutiPundir17/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ShrutiPundir17/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ShrutiPundir17/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShrutiPundir17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ShrutiPundir17/LeetCode/tree/master/0217-contains-duplicate) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShrutiPundir17/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/ShrutiPundir17/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ShrutiPundir17/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ShrutiPundir17/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShrutiPundir17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ShrutiPundir17/LeetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0212-word-search-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/ShrutiPundir17/LeetCode/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShrutiPundir17/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ShrutiPundir17/LeetCode/tree/master/0389-find-the-difference) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ShrutiPundir17/LeetCode/tree/master/0039-combination-sum) |
+| [0212-word-search-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/ShrutiPundir17/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShrutiPundir17/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -736,4 +740,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ShrutiPundir17/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
