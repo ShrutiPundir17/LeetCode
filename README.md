@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ShrutiPundir17/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ShrutiPundir17/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ShrutiPundir17/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ShrutiPundir17/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShrutiPundir17/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShrutiPundir17/LeetCode/tree/master/0055-jump-game) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ShrutiPundir17/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ShrutiPundir17/LeetCode/tree/master/0046-permutations) |
 | [0212-word-search-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/ShrutiPundir17/LeetCode/tree/master/1160-letter-tile-possibilities) |
