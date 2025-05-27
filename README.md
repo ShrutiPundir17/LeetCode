@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ShrutiPundir17/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ShrutiPundir17/LeetCode/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0052-n-queens-ii) |
 | [0212-word-search-ii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/ShrutiPundir17/LeetCode/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/ShrutiPundir17/LeetCode/tree/master/1160-letter-tile-possibilities) |
